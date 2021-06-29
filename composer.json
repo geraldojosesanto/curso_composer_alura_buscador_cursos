@@ -22,8 +22,8 @@
     },
     "require": {
         "guzzlehttp/guzzle": "^7.3",
-        "symfony/dom-crawler": "^4.0@dev",
-        "symfony/css-selector": "^4.0@dev"
+        "symfony/dom-crawler": "v4.4.25",
+        "symfony/css-selector": "v4.4.25"
     },
     "autoload-dev": {
         "files": ["./functions.php"],
