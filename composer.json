@@ -1,8 +1,6 @@
 {
     "name": "geraldojosesanto/buscador_cursos",
     "description": "Projeto que busca os cursos no site da Alura",
-    "minimum-stability": "dev",
-    "prefer-stable": true,
     "type": "library",
     "autoload": {
         "psr-4": {
@@ -15,11 +13,6 @@
             "email": "geraldojosesanto@hotmail.com"
         }
     ],
-    "extra": {
-        "symfony": {
-            "require": "5.3.*"
-        }
-    },
     "require": {
         "guzzlehttp/guzzle": "^7.3",
         "symfony/dom-crawler": "v4.4.25",
