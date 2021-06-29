@@ -18,6 +18,8 @@
         "symfony/dom-crawler": "^5.3.x-dev",
         "symfony/css-selector": "^5.3"
     },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "autoload-dev": {
         "files": ["./functions.php"],
         "classmap": ["./Teste.php"],
