@@ -15,6 +15,11 @@
             "email": "geraldojosesanto@hotmail.com"
         }
     ],
+    "extra": {
+        "symfony": {
+            "require": "5.3.*"
+        }
+    },
     "require": {
         "guzzlehttp/guzzle": "^7.3",
         "symfony/dom-crawler": "^v5.3.0",
