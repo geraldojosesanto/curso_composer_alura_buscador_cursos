@@ -48,5 +48,6 @@
         "check": "Roda as verificações do código PHAN, PHPCS e PHPUNIT"
     },
     "minimum-stability": "dev",
-    "prefer-stable": true
+    "prefer-stable": true,
+    "license": "GPL-3.0"
 }
